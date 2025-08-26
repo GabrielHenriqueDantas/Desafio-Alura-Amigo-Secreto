@@ -59,12 +59,6 @@ amigo-secreto/
 
 ---
 
-## 🔗 Link
-
-Se quiser, você pode hospedar o projeto no GitHub Pages para jogar online.
-
----
-
 ## 👨‍💻 Sobre o projeto
 
 Projeto desenvolvido como **atividade prática do curso One da Alura em parceria com a Oracle**, com o objetivo de aplicar conhecimentos em HTML, CSS e JavaScript de forma prática e divertida.
