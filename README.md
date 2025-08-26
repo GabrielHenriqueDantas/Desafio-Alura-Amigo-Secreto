@@ -32,12 +32,6 @@ Permite adicionar amigos, armazená-los em uma lista e sortear os participantes 
 
 ---
 
-## 📸 Demonstração
-
-![Exemplo do jogo](assets/amigo-secreto.png)
-
----
-
 ## 💡 Observações
 
 - É necessário adicionar pelo menos 2 amigos para que o sorteio funcione.  
